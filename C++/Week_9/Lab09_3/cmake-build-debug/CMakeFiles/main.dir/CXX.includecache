@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/parkjungjin/Junior/Second_Semester/Software_Lab/Week_9/Lab09_3/main.cpp
+iostream
+-
+random
+-
+

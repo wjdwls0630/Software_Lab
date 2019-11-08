@@ -1,0 +1,17 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/parkjungjin/Junior/Second_Semester/Software_Lab/C++/Week_10/Lab10_1_eigenTutorial
+Using CMake version 3.14.3
+Before 'project':
+  C: '/usr/bin/gcc'
+  C++: '/Library/Developer/CommandLineTools/usr/bin/c++'
+  Source: 
+  Binary: 
+  Version: 
+  Version (alt): ..
+/Users/parkjungjin/Junior/Second_Semester/Software_Lab/C++/Week_10/Lab10_1_eigenTutorial
+/Users/parkjungjin/Junior/Second_Semester/Software_Lab/C++/Week_10/Lab10_1_eigenTutorial
+-- No preference for use of exported Eigen CMake configuration set, and no hints for include directory provided. Defaulting to preferring an installed/exported Eigen CMake configuration if available.
+-- Detected Homebrew with install prefix: /usr/local, adding to CMake search paths.
+-- Found installed version of Eigen: /usr/local/share/eigen3/cmake
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/parkjungjin/Junior/Second_Semester/Software_Lab/C++/Week_10/Lab10_1_eigenTutorial/cmake-build-debug

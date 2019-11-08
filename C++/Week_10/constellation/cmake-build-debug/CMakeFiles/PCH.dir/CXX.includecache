@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/parkjungjin/Junior/Second_Semester/Software_Lab/C++/Week_10/constellation/stdafx.cpp
+stdafx.h
+/Users/parkjungjin/Junior/Second_Semester/Software_Lab/C++/Week_10/constellation/stdafx.h
+
+/Users/parkjungjin/Junior/Second_Semester/Software_Lab/C++/Week_10/constellation/stdafx.h
+targetver.h
+/Users/parkjungjin/Junior/Second_Semester/Software_Lab/C++/Week_10/constellation/targetver.h
+cstdio
+-
+
+/Users/parkjungjin/Junior/Second_Semester/Software_Lab/C++/Week_10/constellation/targetver.h
+

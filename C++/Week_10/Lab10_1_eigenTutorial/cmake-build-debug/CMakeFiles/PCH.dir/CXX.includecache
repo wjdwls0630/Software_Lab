@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/parkjungjin/Junior/Second_Semester/Software_Lab/C++/Week_10/Lab10_1_eigenTutorial/stdafx/stdafx.cpp
+stdafx.h
+/Users/parkjungjin/Junior/Second_Semester/Software_Lab/C++/Week_10/Lab10_1_eigenTutorial/stdafx/stdafx.h
+
+/Users/parkjungjin/Junior/Second_Semester/Software_Lab/C++/Week_10/Lab10_1_eigenTutorial/stdafx/stdafx.h
+targetver.h
+/Users/parkjungjin/Junior/Second_Semester/Software_Lab/C++/Week_10/Lab10_1_eigenTutorial/stdafx/targetver.h
+cstdio
+-
+tchar.h
+-
+
+/Users/parkjungjin/Junior/Second_Semester/Software_Lab/C++/Week_10/Lab10_1_eigenTutorial/stdafx/targetver.h
+

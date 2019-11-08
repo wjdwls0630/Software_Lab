@@ -1,0 +1,24 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/parkjungjin/Junior/Second_Semester/Software_Lab/Week_6/Assignment_1
+Using CMake version 3.14.3
+Before 'project':
+  C: ''
+  C++: '/Library/Developer/CommandLineTools/usr/bin/c++'
+  Source: 
+  Binary: 
+  Version: 
+  Version (alt): ..
+-- Configuring done
+CMake Error at CMakeLists.txt:33 (add_executable):
+  Cannot find source file:
+
+    Structures/DataSet.hpp
+
+  Tried extensions .c .C .c++ .cc .cpp .cxx .cu .m .M .mm .h .hh .h++ .hm
+  .hpp .hxx .in .txx
+
+
+CMake Error at CMakeLists.txt:33 (add_executable):
+  No SOURCES given to target: main
+
+
+-- Build files have been written to: /Users/parkjungjin/Junior/Second_Semester/Software_Lab/Week_6/Assignment_1/cmake-build-debug

@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libPCH.a  CMakeFiles/PCH.dir/stdafx/stdafx.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libPCH.a
